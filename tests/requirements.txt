@@ -1,0 +1,18 @@
+# Packages needed to run the tests.
+# Switch into a virtual environment
+# pip install -r requirements.txt
+
+chromedriver-binary
+dash>=0.31.0
+dash-core-components
+dash-html-components
+dash-bootstrap-components>=0.3.0
+dash-renderer
+plotly>=3.5.0
+numpy>=1.16.0
+ipdb
+percy
+selenium
+flake8
+pylint
+pytest-dash>=1.0.1
